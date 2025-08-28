@@ -65,6 +65,3 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 A project for Sentimental Analysis on Any Dataset a Using Rapidminer has been created successfully.
 
 
-
-### Result:
-A project for Sentimental Analysis on Any Dataset a Using Rapidminer has been created successfully.
